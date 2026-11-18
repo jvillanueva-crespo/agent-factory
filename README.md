@@ -4,7 +4,6 @@ A skill that turns the GitHub issues you pick into reviewed pull requests. Opus 
 
 Follows the [Agent Skills](https://agentskills.io/) format.
 
-[![skills.sh](https://skills.sh/b/jvillanueva-crespo/agent-factory)](https://skills.sh/jvillanueva-crespo/agent-factory)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Install
