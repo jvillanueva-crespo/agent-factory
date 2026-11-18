@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="1544" viewBox="0 0 680 1544" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Factory workflow: before, plan, execution, close">
+<title>Factory workflow</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#9c9a92" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect width="680" height="1544" rx="12" fill="#141413"/>
+<rect x="30" y="20" width="620" height="76" rx="16" fill="none" stroke="#6f6e68" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="44" y="44" dominant-baseline="central" font-size="14" font-weight="600" fill="#e8e6dc">Before</text>
+<text x="44" y="62" dominant-baseline="central" font-size="12" fill="#a8a69c">You</text>
+<rect x="180" y="32" width="135" height="52" rx="8" fill="#633806" stroke="#BA7517" stroke-width="1"/>
+<text x="247.5" y="49" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#FAEEDA">Project</text>
+<text x="247.5" y="69" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#FAC775">Short CLAUDE.md</text>
+<rect x="325" y="32" width="135" height="52" rx="8" fill="#633806" stroke="#BA7517" stroke-width="1"/>
+<text x="392.5" y="49" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#FAEEDA">Issues</text>
+<text x="392.5" y="69" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#FAC775">With criteria (AC-n)</text>
+<line x1="320" y1="96" x2="320" y2="106" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="108" width="280" height="52" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="320" y="125" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#E1F5EE">/factory setup · once</text>
+<text x="320" y="145" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#9FE1CB">Environment, questions, blocks</text>
+<line x1="320" y1="160" x2="320" y2="182" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="184" width="280" height="52" rx="8" fill="#444441" stroke="#888780" stroke-width="1"/>
+<text x="320" y="201" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#F1EFE8">/factory 12 15</text>
+<text x="320" y="221" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#D3D1C7">Any issue, by number</text>
+<line x1="320" y1="236" x2="320" y2="270" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="30" y="252" width="620" height="308" rx="16" fill="none" stroke="#6f6e68" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="44" y="276" dominant-baseline="central" font-size="14" font-weight="600" fill="#e8e6dc">Plan</text>
+<text x="44" y="294" dominant-baseline="central" font-size="12" fill="#a8a69c">You + Opus</text>
+<rect x="180" y="272" width="280" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="320" y="289" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">Explore · Haiku</text>
+<text x="320" y="309" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">Map + doubts for Opus</text>
+<line x1="320" y1="324" x2="320" y2="344" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="346" width="280" height="52" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="320" y="363" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#E1F5EE">size.mjs · code</text>
+<text x="320" y="383" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#9FE1CB">S, M or L, automatic</text>
+<line x1="320" y1="398" x2="320" y2="418" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="420" width="280" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="320" y="437" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">Spec · Opus</text>
+<text x="320" y="457" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">Subtasks + a test per criterion</text>
+<line x1="460" y1="436" x2="498" y2="436" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<line x1="500" y1="458" x2="462" y2="458" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="500" y="420" width="140" height="52" rx="8" fill="#633806" stroke="#BA7517" stroke-width="1"/>
+<text x="570" y="437" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#FAEEDA">Asks you</text>
+<text x="570" y="457" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#FAC775">And Opus continues</text>
+<line x1="320" y1="472" x2="320" y2="492" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="494" width="280" height="52" rx="8" fill="#633806" stroke="#BA7517" stroke-width="1"/>
+<text x="320" y="511" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#FAEEDA">You approve the plan</text>
+<text x="320" y="531" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#FAC775">Size and subtasks visible</text>
+<line x1="320" y1="546" x2="320" y2="586" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="30" y="568" width="620" height="678" rx="16" fill="none" stroke="#6f6e68" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="44" y="592" dominant-baseline="central" font-size="14" font-weight="600" fill="#e8e6dc">Execution</text>
+<text x="44" y="610" dominant-baseline="central" font-size="12" fill="#a8a69c">No questions</text>
+<rect x="180" y="588" width="280" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="320" y="605" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">Implementer · Sonnet</text>
+<text x="320" y="625" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">All the tests first</text>
+<line x1="320" y1="640" x2="320" y2="660" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="662" width="280" height="52" rx="8" fill="#791F1F" stroke="#E24B4A" stroke-width="1"/>
+<text x="320" y="679" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#FCEBEB">Red check · code</text>
+<text x="320" y="699" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#F7C1C1">They fail and get frozen</text>
+<path d="M180 688 L150 688 L150 614 L176 614" fill="none" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<text x="140" y="651" text-anchor="end" dominant-baseline="central" font-size="12" fill="#a8a69c">Passes without code</text>
+<line x1="320" y1="714" x2="320" y2="734" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="736" width="280" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="320" y="753" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">Same agent: subtasks</text>
+<text x="320" y="773" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">One after another</text>
+<line x1="460" y1="762" x2="498" y2="762" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="500" y="736" width="140" height="52" rx="8" fill="#444441" stroke="#888780" stroke-width="1"/>
+<text x="570" y="753" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#F1EFE8">ESCALATE</text>
+<text x="570" y="773" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#D3D1C7">Replan, you approve</text>
+<line x1="320" y1="788" x2="320" y2="808" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="810" width="280" height="52" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="320" y="827" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#E1F5EE">Check per subtask · code</text>
+<text x="320" y="847" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#9FE1CB">Short summary and commit</text>
+<path d="M180 836 L150 836 L150 762 L176 762" fill="none" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<text x="140" y="799" text-anchor="end" dominant-baseline="central" font-size="12" fill="#a8a69c">Fails: resume</text>
+<path d="M460 836 L570 836 L570 790" fill="none" stroke="#9c9a92" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#a)"/>
+<text x="515" y="822" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#a8a69c">2 failures</text>
+<line x1="320" y1="862" x2="320" y2="882" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="884" width="280" height="52" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="320" y="901" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#E1F5EE">Green check · code</text>
+<text x="320" y="921" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#9FE1CB">All green, tests untouched</text>
+<line x1="320" y1="936" x2="320" y2="956" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="958" width="280" height="52" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="320" y="975" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#E1F5EE">Mutation · code</text>
+<text x="320" y="995" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#9FE1CB">Diff only</text>
+<line x1="460" y1="984" x2="498" y2="984" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="500" y="958" width="140" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="570" y="975" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">If &lt; 70 %</text>
+<text x="570" y="995" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">1 round, resume</text>
+<line x1="320" y1="1010" x2="320" y2="1030" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="1032" width="280" height="52" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="320" y="1049" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#E1F5EE">Traceability · code</text>
+<text x="320" y="1069" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#9FE1CB">Matrix + code without a criterion</text>
+<line x1="320" y1="1084" x2="320" y2="1104" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="1106" width="280" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="320" y="1123" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">QA · Sonnet, quick</text>
+<text x="320" y="1143" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">Technical debt in the diff</text>
+<line x1="460" y1="1132" x2="498" y2="1132" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="500" y="1106" width="140" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="570" y="1123" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">If there is debt</text>
+<text x="570" y="1143" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">1 round, resume</text>
+<line x1="320" y1="1158" x2="320" y2="1178" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="1180" width="280" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="320" y="1197" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">PR opener · Haiku</text>
+<text x="320" y="1217" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">Title and notes by type</text>
+<line x1="320" y1="1232" x2="320" y2="1272" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="30" y="1254" width="620" height="234" rx="16" fill="none" stroke="#6f6e68" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="44" y="1278" dominant-baseline="central" font-size="14" font-weight="600" fill="#e8e6dc">Close</text>
+<text x="44" y="1296" dominant-baseline="central" font-size="12" fill="#a8a69c">Runs on its own</text>
+<rect x="180" y="1274" width="280" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="320" y="1291" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">/code-review · strong</text>
+<text x="320" y="1311" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">Bugs and security</text>
+<line x1="460" y1="1300" x2="498" y2="1300" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="500" y="1274" width="140" height="52" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="570" y="1291" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#EEEDFE">Automatic fix</text>
+<text x="570" y="1311" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#AFA9EC">Resumes and checks</text>
+<line x1="320" y1="1326" x2="320" y2="1346" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="1348" width="280" height="52" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="320" y="1365" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#E1F5EE">Report + log · code</text>
+<text x="320" y="1385" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#9FE1CB">Everything saved locally</text>
+<line x1="460" y1="1374" x2="498" y2="1374" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="500" y="1348" width="140" height="52" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="570" y="1365" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#E1F5EE">lessons.md</text>
+<text x="570" y="1385" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#9FE1CB">Saved when repeated</text>
+<path d="M640 1374 L662 1374 L662 408 L400 408 L400 418" fill="none" stroke="#9c9a92" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#a)"/>
+<text x="560" y="396" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#a8a69c">Opus reads them</text>
+<line x1="320" y1="1400" x2="320" y2="1420" stroke="#9c9a92" stroke-width="1.5"  marker-end="url(#a)"/>
+<rect x="180" y="1422" width="280" height="52" rx="8" fill="#633806" stroke="#BA7517" stroke-width="1"/>
+<text x="320" y="1439" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#FAEEDA">You merge</text>
+<text x="320" y="1459" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#FAC775">After testing the manual criteria</text>
+<rect x="40" y="1512" width="14" height="14" rx="3" fill="#3C3489" stroke="#7F77DD"/>
+<text x="60" y="1519" text-anchor="start" dominant-baseline="central" font-size="12" fill="#a8a69c">AI agent</text>
+<rect x="150" y="1512" width="14" height="14" rx="3" fill="#085041" stroke="#1D9E75"/>
+<text x="170" y="1519" text-anchor="start" dominant-baseline="central" font-size="12" fill="#a8a69c">Code, 0 tokens</text>
+<rect x="300" y="1512" width="14" height="14" rx="3" fill="#791F1F" stroke="#E24B4A"/>
+<text x="320" y="1519" text-anchor="start" dominant-baseline="central" font-size="12" fill="#a8a69c">Red</text>
+<rect x="370" y="1512" width="14" height="14" rx="3" fill="#633806" stroke="#BA7517"/>
+<text x="390" y="1519" text-anchor="start" dominant-baseline="central" font-size="12" fill="#a8a69c">You</text>
+<rect x="430" y="1512" width="14" height="14" rx="3" fill="#444441" stroke="#888780"/>
+<text x="450" y="1519" text-anchor="start" dominant-baseline="central" font-size="12" fill="#a8a69c">Entry / jump</text>
+</svg>
